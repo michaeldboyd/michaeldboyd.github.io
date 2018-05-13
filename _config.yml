@@ -8,13 +8,14 @@ permalink:        pretty
 # Setup
 title:            Michael Boyd
 tagline:          'software engineer and writer'
-description:      'I '
-url:              http://hyde.getpoole.com
+description:      'Working for the Sovrin Foundation, Amazon SWE intern 2018,
+                  BYU 2019 CS graduate, interested in using technology to improve education and healthcare.'
+url:              http://michaelboyd.me
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Michael Boyd'
+  url:            https://github.com/michaeldboyd
 
 gems:          [jekyll-paginate, jekyll-gist]
 
@@ -24,4 +25,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/michaeldboyd/michaeldboyd.github.io
